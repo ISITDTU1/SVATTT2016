@@ -1,6 +1,7 @@
 bây giờ minh xin viết lại write câu for 150 Readit SVATTT 2016
+</br>
 hint: checksum
-
+</br>
 trước tiên bật "Validate the TCP checksum if possible" (Edit->Preferences..->Protocols->TCP-> Validate the TCP checksum if possibl)
 bạn thấy checksum [incorrect,....]
 </br>

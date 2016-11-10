@@ -21,5 +21,6 @@ mình thì lập lun 2 đường lỡ đâu chặn 1 đường thì đi tiếp �
 </br> 5751348d5f605c699b03fd9e660dbb06a08ef73f2f8e8a987b33c22b3efbe1e1010a06bb57ac24bcec82c442fa20145ea5b3661d139575edb5a0ef96ca441b903c1da70ab115c0a3f0ef25fc502a1d2eef8d24a4235859a41190ce5c27a29a30af7521ecf0400ee6716385edbc6b3cfeeaf5c37343b7bd7914c44329ada43f11
 
 
-flag: 
+flag: ![caro](https://cloud.githubusercontent.com/assets/23380906/20180918/e608a4bc-a78e-11e6-89f6-e1d5311911a5.png)
+
 

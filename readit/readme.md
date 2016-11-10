@@ -4,6 +4,7 @@ hint: checksum
 trước tiên bật "Validate the TCP checksum if possible" (Edit->Preferences..->Protocols->TCP-> Validate the TCP checksum if possibl)
 bạn thấy checksum [incorrect,....]
 </br>
+![readit](https://cloud.githubusercontent.com/assets/23380906/20177836/60d0b8d2-a781-11e6-9e2b-7f309bbe1ce6.png)
 
 </br>
 0x88 - 0x65 = 0x23

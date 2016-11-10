@@ -34,6 +34,6 @@ Mình lại gửi tiếp FLAG? Đến server và cũng nhận được 1 đoạn
 
 Bởi vì encrypt_key là random, nên factor có lúc được lúc không , cho nên mình sẽ gửi nhiêu lần, sau vài chục lần thử  factor encrypt_key ,thật sự lúc này rất nản và cũng gần hết giờ nhưng rất may cuối cùng lại tìm thấy đoạn có thể factor dễ dàng kaka, có các prime, mình tính phi và private key, sau đó decrypt `enc` là ra flag. SVATTT{CRT_CRT_CRT_101!!!!}
 
-Ps: 2 bài crypto còn lại betacaro và chess các bạn có thể hoàn toàn giải được bằng tay.
-    Bài betacaro khi kết nối vào server sẽ hỏi các bạn là chọn yes hay no để được đánh trước. Nếu chọn no server sẽ đánh trước và gửi cho các bạn một đoạn mã,đoạn mã đó biểu thị vị trí của điểm mà server đã đánh. chúng ta sẽ lấy mã này lại sau đó lại dùng đoạn mã này gửi lên server thì server sẽ gửi cho chúng ta một đoạn mã khác tương ứng với vị trí khác. chúng ta có thể làm theo cách này nhiều lần và lấy được các mã khác nhau tương ứng với các vị trí trong khung chơi sau đó dùng nó để chơi với server thôi. Có rất nhiều cách để giải quyết bài này, nhưng mình lại làm theo cách dễ nhất vì mình nghĩ nó rất vui và làm giảm bớt được những áp lực lúc thi.
-    Bài chess, mình không nghĩ bài 250 điểm lại có thể dễ dàng như vậy, các bạn chỉ cần đi ngược ô e7e6 là giải quyết được vấn đề.Mình nghĩ bài này có thể bị lỗi hoặc ban tổ chức đã cố tình để vậy. Nhưng mình trong lúc thi cũng không nhận ra được vấn đề này,cứ nghĩ bài này rất khó nên đã không làm, khi về nhà làm ra mới thấy tiếc. 
+Ps: bài crypto chess các bạn có thể hoàn toàn giải được bằng tay.
+
+mình không nghĩ bài 250 điểm lại có thể dễ dàng như vậy, các bạn chỉ cần đi ngược ô e7e6 là giải quyết được vấn đề.Mình nghĩ bài này có thể bị lỗi hoặc ban tổ chức đã cố tình để vậy. Nhưng mình trong lúc thi cũng không nhận ra được vấn đề này,cứ nghĩ bài này rất khó nên đã không làm, khi về nhà làm ra mới thấy tiếc. 

@@ -34,5 +34,5 @@ Nhớ lại một điều việc sử dụng phép so sánh với “==” trong
 </br>			break
 </br>Nó thực sự là một kĩ thuật bruteforce với tham số timestamp cho đến khi ta đã được một mã hash có thể so sánh với $sig nhập vào và đạt được giá trị là TRUE với kí tự 0.
 </br>Got it.
-
+![web](https://cloud.githubusercontent.com/assets/23380906/20181266/04b8ebc8-a790-11e6-8dc2-b1ac7d2a3cd1.png)
 Flag: SVATTT{N0_m0r3_h4sh_3xtens10n_4tt4ck}

@@ -1,6 +1,7 @@
 với câu crypto 150 này thì mình làm thủ công bởi không biết đây là mã hóa gì
 </br>
-đầu tiên mình dành ít thời gian lập bảng đường đi 
+đầu tiên khi kết nối vào server sẽ hỏi các bạn là chọn yes hay no để được đánh trước. Nếu chọn no server sẽ đánh trước và gửi cho các bạn một đoạn mã,đoạn mã đó biểu thị vị trí của điểm mà server đã đánh. chúng ta sẽ lấy mã này lại sau đó lại dùng đoạn mã này gửi lên server thì server sẽ gửi cho chúng ta một đoạn mã khác tương ứng với vị trí khác. chúng ta có thể làm theo cách này nhiều lần và lấy được các mã khác nhau tương ứng với các vị trí trong khung chơi sau đó dùng nó để chơi với server thôi. Rồi cuối cùng mình đường bảng đường đi :)
+</br>
 </br>
 mình thì lập lun 2 đường lỡ đâu chặn 1 đường thì đi tiếp đường kia cho tiện
 </br>
